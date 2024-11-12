@@ -1,1 +1,1 @@
-# html-assignment
+# html-assignment for a CSC course in school
